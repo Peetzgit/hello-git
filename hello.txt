@@ -1,1 +1,15 @@
 Hello World ls!
+
+Command used:
+
+
+
+echo "# hello-git" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Peetzgit/hello-git.git
+git push -u origin main
+
+this will ask for user passowrd authentication and once provided its done.!
